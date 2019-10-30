@@ -9,12 +9,21 @@ Implementation of Algorithms and Data Structures, Problems and Solutions [http:/
 [**Play-with-Data-Structures**][48]  
 我在慕课网上的课程《Java语言玩转数据结构》示例代码。课程的更多更新内容及辅助练习也将逐步添加进这个代码仓。  
 
+[**liuyubobobo-algorithms**][54]  
+慕课网刘宇波老师所有的算法视频教程，学习时自己的代码记录  
+
+[**Data-Structure-And-Algorithm**][55]  
+Data Structure And Algorithm（常用数据结构与算法C/C++实现） 
+
+[**AlgoDS**][61]  
+Implementation of Algorithms and Data Structures, Problems and Solutions  
+
 
 ## [Android](./Android.md)
 
 
 
-## Artificial Intelligence
+## [Artificial Intelligence](./ai.md)
 [**Algorithm_Interview_Notes-Chinese**][1]  
 2018/2019/校招/春招/秋招/算法/机器学习/深度学习/自然语言处理/C/C++/Python/面试笔记  
 
@@ -51,6 +60,18 @@ Non official project based on original /r/Deepfakes thread. Many thanks to him! 
 换脸技术  
 
 
+## Flutter
+
+[**flutter-go**][52]  
+flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档  
+
+[**gsy_github_app_flutter**][53]  
+超完整的Flutter项目，功能丰富，适合学习和日常使用  
+
+[**HistoryOfEverything**][56]  
+Flutter Launch Timeline Demo  
+
+
 ## Java
 [**Java学习面试指南**][22]  
 一份涵盖大部分Java程序员所需要掌握的核心知识。  
@@ -61,13 +82,24 @@ Non official project based on original /r/Deepfakes thread. Many thanks to him! 
 [**jsonschema2pojo**][44]  
 Generate Java types from JSON or JSON Schema and annotates those types for data-binding with Jackson, Gson, etc [http://www.jsonschema2pojo.org](http://www.jsonschema2pojo.org)  
 
+[**proxyee-down**][59]  
+http下载工具，基于http代理，支持多连接分块下载  
 
-## Javascript
+
+## [Javascript](./javascript.md)
 [**33个js概念**][21]  
 每个 JavaScript 工程师都应懂的33个概念  
 
 [**react**][46]  
 A declarative, efficient, and flexible JavaScript library for building user interfaces. [https://reactjs.org](https://reactjs.org)  
+
+[**react-demos**][63]  
+a collection of simple demos of React.js  
+
+
+## json
+[**jsonschema2pojo**][62]  
+Generate Java types from JSON or JSON Schema and annotates those types for data-binding with Jackson, Gson, etc  
 
 
 ## LearnResource
@@ -116,6 +148,13 @@ A complete daily plan for studying to become a machine learning engineer.
 [**chinese-poetry**][36]  
 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 [http://shici.store](http://shici.store)  
 
+[**Python-100-Days**][57]  
+Python - 100天从新手到大师  
+
+## 区块链
+[**awesome-blockchain-cn**][60]  
+收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料  
+
 
 ## Other
 [**中国独立开发者项目列表**][34]  
@@ -123,6 +162,9 @@ A complete daily plan for studying to become a machine learning engineer.
 
 [**English-level-up-tips-for-Chinese**][49]  
 可能是让你受益匪浅的英语进阶指南  
+
+[**shadowsocks-windows**][58]  
+If you want to keep a secret, you must also hide it from yourself.  
 
 
 
@@ -178,3 +220,15 @@ A complete daily plan for studying to become a machine learning engineer.
 [49]: https://github.com/byoungd/English-level-up-tips-for-Chinese
 [50]: https://github.com/crossoverJie/JCSprout
 [51]: https://github.com/deepfakes/faceswap
+[52]: https://github.com/alibaba/flutter-go
+[53]: https://github.com/CarGuo/gsy_github_app_flutter
+[54]: https://github.com/19920625lsg/liuyubobobo-algorithms
+[55]: https://github.com/mmc-maodun/Data-Structure-And-Algorithm
+[56]: https://github.com/2d-inc/HistoryOfEverything
+[57]: https://github.com/jackfrued/Python-100-Days
+[58]: https://github.com/shadowsocks/shadowsocks-windows
+[59]: https://github.com/proxyee-down-org/proxyee-down
+[60]: https://github.com/chaozh/awesome-blockchain-cn
+[61]: https://github.com/sherxon/AlgoDS
+[62]: https://github.com/joelittlejohn/jsonschema2pojo
+[63]: https://github.com/ruanyf/react-demos
