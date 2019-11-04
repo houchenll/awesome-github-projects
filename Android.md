@@ -63,7 +63,7 @@
 * [coolweatherjetpack][8] - 酷欧天气的Jetpack版本实现，采用了MVVM架构。
 * [flutter][28] - Flutter makes it easy and fast to build beautiful mobile apps. [https://flutter.io](https://flutter.io)
 * [RxJava][6] - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
-
+* [architecture-samples][49] - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 
 ## Note & Interview
 * [AndroidNote][23] - 安卓学习笔记 [http://www.gcssloop.com/#blog](http://www.gcssloop.com/#blog)
@@ -146,3 +146,4 @@
 [46]: https://github.com/byc4426/ImageWatcher
 [47]: https://github.com/chrisbanes/PhotoView
 [48]: https://github.com/bm-x/PhotoView
+[49]: https://github.com/android/architecture-samples
