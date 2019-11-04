@@ -4,15 +4,15 @@
 
 ## View
 * [android-Ultra-Pull-To-Refresh][39] - Ultra Pull to Refresh for Android. Support all the views.
-* [ExpansionPanel][20] - Android - Expansion panels contain creation flows and allow lightweight editing of an element. [https://material.io/guidelines/compon…](https://material.io/design/)
+* [ExpansionPanel][20] - Android - Expansion panels contain creation flows and allow lightweight editing of an element.
 * [XhsEmoticonsKeyboard][26] - android emoticonsKeyboard support emoji and user-defined emoticon. easy to integrated into your project
 
 
 ### Float Window
-* [FloatWindow][3] - Andorid 任意界面悬浮窗，实现悬浮窗如此简单 [https://www.jianshu.com/p/18cbc862ba7b](https://www.jianshu.com/p/18cbc862ba7b)
+* [FloatWindow][3] - Andorid 任意界面悬浮窗，实现悬浮窗如此简单
 * [FloatWindowPermission][24] - this repository is aimed to adapt android float window permission in most kinds of mobiles and how to request it at runtime
 * [FloatMenuSample][25] - android 悬浮窗菜单，可在launcher或app中使用
-* [MusicBobber][17] - Awesome Audio Widget for any Android Music App [https://www.cleveroad.com](https://www.cleveroad.com)
+* [MusicBobber][17] - Awesome Audio Widget for any Android Music App
 
 
 ### Image
@@ -50,9 +50,9 @@
 
 
 ## Network
-* [retrofit][45] - Type-safe HTTP client for Android and Java by Square, Inc. [http://square.github.io/retrofit/](http://square.github.io/retrofit/)
+* [retrofit][45] - Type-safe HTTP client for Android and Java by Square, Inc.
 * [RxjavaRetrofitDemo][43] - A demo show how to use Retrofit with Rxjava
-[socket.io-client-java][32] - Full-featured Socket.IO Client Library for Java, which is compatible with Socket.IO v1.0 and later. [http://socketio.github.io/socket.io-c…](http://socketio.github.io/socket.io-client-java)
+[socket.io-client-java][32] - Full-featured Socket.IO Client Library for Java, which is compatible with Socket.IO v1.0 and later.
 
 
 ## Database
@@ -61,12 +61,12 @@
 
 ## Structure
 * [coolweatherjetpack][8] - 酷欧天气的Jetpack版本实现，采用了MVVM架构。
-* [flutter][28] - Flutter makes it easy and fast to build beautiful mobile apps. [https://flutter.io](https://flutter.io)
+* [flutter][28] - Flutter makes it easy and fast to build beautiful mobile apps.
 * [RxJava][6] - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 * [architecture-samples][49] - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 
 ## Note & Interview
-* [AndroidNote][23] - 安卓学习笔记 [http://www.gcssloop.com/#blog](http://www.gcssloop.com/#blog)
+* [AndroidNote][23] - 安卓学习笔记
 * [UltimateAndroidReference][42] - Ultimate Android Reference - Your Road to Become a Better Android Developer
 
 
