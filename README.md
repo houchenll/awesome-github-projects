@@ -8,6 +8,7 @@
 * [liuyubobobo-algorithms][54] - 慕课网刘宇波老师所有的算法视频教程，学习时自己的代码记录
 * [Data-Structure-And-Algorithm][55] - Data Structure And Algorithm（常用数据结构与算法C/C++实现)
 * [AlgoDS][61] - Implementation of Algorithms and Data Structures, Problems and Solutions  
+* [fucking-algorithm][64] - 60 多篇原创文章，基本上都是基于 LeetCode 的题目，涵盖了所有题型和技巧  
 
 
 ## [Android](./Android.md)
@@ -34,10 +35,7 @@
 换脸技术  
 
 
-## Flutter
-* [flutter-go][52] - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
-* [gsy_github_app_flutter][53] - 超完整的Flutter项目，功能丰富，适合学习和日常使用
-* [HistoryOfEverything][56] - Flutter Launch Timeline Demo  
+## [Flutter](./flutter.md)
 
 
 ## Java
@@ -61,7 +59,7 @@
 * [awesome-programming-books][2] - 经典技术书籍 PDF 文件，持续更新...
 * [awesome-programming-books-2][27] - 经典编程书籍大全(销售链接)，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等  
 
-[中国科学技术大学课程资源][20] - 本仓库收录中国科学技术大学众多课程资源，包括电子版教材、参考书、讲义、试卷、学习心得、习题解答等。以计算机学院课程为主，也包含公选课、自由选修等其他课程。
+* [中国科学技术大学课程资源][20] - 本仓库收录中国科学技术大学众多课程资源，包括电子版教材、参考书、讲义、试卷、学习心得、习题解答等。以计算机学院课程为主，也包含公选课、自由选修等其他课程。
 * [awesome][18] - 😎 Awesome lists about all kinds of interesting topics
 * [技术博客笔记大汇总][25] - 技术博客笔记大汇总【15年10月到至今】，包括Java基础及深入知识点，Android技术博客，Python，Go学习笔记等等，还包括平时开发中遇到的bug汇总，当然也在工作之余收集了大量的面试题，长期更新维护并且修正，持续完善……开源的文件是markdown格式的！同时也开源了生活博客，从12年起，积累共计N篇[近100万字]，转载请注明出处，谢谢！
 * [互联网公司技术架构][29] - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
@@ -82,6 +80,8 @@
 ## Python
 * [chinese-poetry][36] - 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 [http://shici.store](http://shici.store)
 * [Python-100-Days][57] - Python - 100天从新手到大师  
+* [examples-of-web-crawlers][65] - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站  
+
 
 ## 区块链
 * [awesome-blockchain-cn][60] - 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料  
@@ -158,3 +158,5 @@
 [61]: https://github.com/sherxon/AlgoDS
 [62]: https://github.com/joelittlejohn/jsonschema2pojo
 [63]: https://github.com/ruanyf/react-demos
+[64]: https://github.com/labuladong/fucking-algorithm
+[65]: https://github.com/shengqiangzhang/examples-of-web-crawlers
