@@ -15,24 +15,12 @@
 
 
 
-## [Artificial Intelligence](./ai.md)
-* [Algorithm_Interview_Notes-Chinese][1] - 2018/2019/校招/春招/秋招/算法/机器学习/深度学习/自然语言处理/C/C++/Python/面试笔记
-* [awesome-artificial-intelligence][14] - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers
-* [tensorspace][26] - Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js [https://tensorspace.org](https://tensorspace.org)  
+## [AI](./ai.md)
+
 
 
 ## C++
 * [interview][7] - C/C++面试基础知识总结  
-
-
-## Deap Learning
-* [深度学习500问][24] - 以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 
-* [tensorflow][31] - An Open Source Machine Learning Framework for Everyone [https://tensorflow.org](https://tensorflow.org)
-* [easy-tensorflow][30] - Simple and comprehensive tutorials in TensorFlow [http://www.easy-tensorflow.com](http://www.easy-tensorflow.com)
-* [Deep-Learning-21-Examples][32] - 《21个项目玩转深度学习———基于TensorFlow的实践详解》配套代码
-* [deeplearning_ai_books][47] - 吴恩达老师的深度学习课程笔记及资源
-* [faceswap][51] - Non official project based on original /r/Deepfakes thread. Many thanks to him! https://www.reddit.com/r/deepfakes/  
-换脸技术  
 
 
 ## [Flutter](./flutter.md)
@@ -63,13 +51,6 @@
 * [awesome][18] - 😎 Awesome lists about all kinds of interesting topics
 * [技术博客笔记大汇总][25] - 技术博客笔记大汇总【15年10月到至今】，包括Java基础及深入知识点，Android技术博客，Python，Go学习笔记等等，还包括平时开发中遇到的bug汇总，当然也在工作之余收集了大量的面试题，长期更新维护并且修正，持续完善……开源的文件是markdown格式的！同时也开源了生活博客，从12年起，积累共计N篇[近100万字]，转载请注明出处，谢谢！
 * [互联网公司技术架构][29] - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
-* [技术面试必备基础知识][35] - 
-
-## Machine Learning
-* [machine-learning-for-software-engineers][3] - A complete daily plan for studying to become a machine learning engineer.  
-自上而下的学习路线: 软件工程师的机器学习
-* [100-Days-Of-ML-Code][4] - 
-* [Coursera-ML-AndrewNg-Notes][17] - 吴恩达老师的机器学习课程个人笔记  
 
 
 ## Node.js
@@ -95,10 +76,8 @@
 
 
 
-[1]: https://github.com/imhuay/Algorithm_Interview_Notes-Chinese  
+
 [2]: https://github.com/royeo/awesome-programming-books  
-[3]: https://github.com/ZuzooVn/machine-learning-for-software-engineers  
-[4]: https://github.com/Avik-Jain/100-Days-Of-ML-Code
 [5]: https://github.com/Tencent/wcdb
 [6]: https://github.com/ReactiveX/RxJava
 [7]: https://github.com/huihut/interview
@@ -108,25 +87,18 @@
 [11]: https://github.com/BelooS/ChipsLayoutManager
 [12]: https://github.com/oubowu/PinnedSectionItemDecoration
 [13]: https://github.com/woxblom/DragListView
-[14]: https://github.com/owainlewis/awesome-artificial-intelligence
 [15]: https://github.com/CymChad/BaseRecyclerViewAdapterHelper
 [16]: http://www.recyclerview.org/
-[17]: https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes
 [18]: https://github.com/sindresorhus/awesome
 [19]: https://github.com/yangchaojiang/ZoomPreviewPicture
 [20]: https://github.com/mbinary/USTC-CS-Courses-Resource
 [21]: https://github.com/stephentian/33-js-concepts
 [22]: https://github.com/Snailclimb/JavaGuide
 [23]: https://github.com/GcsSloop/AndroidNote
-[24]: https://github.com/scutan90/DeepLearning-500-questions
 [25]: https://github.com/yangchong211/YCBlogs
-[26]: https://github.com/tensorspace-team/tensorspace
 [27]: https://github.com/jobbole/awesome-programming-books
 [28]: https://github.com/flutter/flutter
 [29]: https://github.com/davideuler/architecture.of.internet-product
-[30]: https://github.com/easy-tensorflow/easy-tensorflow
-[31]: https://github.com/tensorflow/tensorflow
-[32]: https://github.com/hzy46/Deep-Learning-21-Examples
 [33]: https://github.com/i5ting/How-to-learn-node-correctly
 [34]: https://github.com/1c7/chinese-independent-developer
 [35]: https://github.com/CyC2018/CS-Notes
@@ -141,11 +113,9 @@
 [44]: https://github.com/joelittlejohn/jsonschema2pojo
 [45]: https://github.com/square/retrofit
 [46]: https://github.com/facebook/react
-[47]: https://github.com/fengdu78/deeplearning_ai_books
 [48]: https://github.com/liuyubobobo/Play-with-Data-Structures
 [49]: https://github.com/byoungd/English-level-up-tips-for-Chinese
 [50]: https://github.com/crossoverJie/JCSprout
-[51]: https://github.com/deepfakes/faceswap
 [52]: https://github.com/alibaba/flutter-go
 [53]: https://github.com/CarGuo/gsy_github_app_flutter
 [54]: https://github.com/19920625lsg/liuyubobobo-algorithms
