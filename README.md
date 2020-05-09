@@ -7,8 +7,8 @@
 * [Play-with-Data-Structures][48] - 我在慕课网上的课程《Java语言玩转数据结构》示例代码。课程的更多更新内容及辅助练习也将逐步添加进这个代码仓。
 * [liuyubobobo-algorithms][54] - 慕课网刘宇波老师所有的算法视频教程，学习时自己的代码记录
 * [Data-Structure-And-Algorithm][55] - Data Structure And Algorithm（常用数据结构与算法C/C++实现)
-* [AlgoDS][61] - Implementation of Algorithms and Data Structures, Problems and Solutions  
-* [fucking-algorithm][64] - 60 多篇原创文章，基本上都是基于 LeetCode 的题目，涵盖了所有题型和技巧  
+* [AlgoDS][61] - Implementation of Algorithms and Data Structures, Problems and Solutions
+* [fucking-algorithm][69] - 手把手撕LeetCode题目，扒各种算法套路的裤子。
 
 
 ## [Android](./Android.md)
@@ -28,6 +28,7 @@
 
 ## Java
 * [Java学习面试指南][22] - 一份涵盖大部分Java程序员所需要掌握的核心知识。
+* [JavaGuide][68] - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 * [JCSprout][50] - 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm [https://crossoverjie.top/JCSprout](https://crossoverjie.top/JCSprout)
 * [jsonschema2pojo][44] - Generate Java types from JSON or JSON Schema and annotates those types for data-binding with Jackson, Gson, etc [http://www.jsonschema2pojo.org](http://www.jsonschema2pojo.org)
 * [proxyee-down][59] - http下载工具，基于http代理，支持多连接分块下载  
@@ -53,6 +54,10 @@
 * [互联网公司技术架构][29] - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 
 
+## 面试
+* [interview_internal_reference][67] - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+
+
 ## Node.js
 * [如何正确的学习Node.js][33] - 如何正确的学习Node.js [https://i5ting.github.io/How-to-learn…](https://i5ting.github.io/How-to-learn-node-correctly/)
 * [汉字拼音转换工具][38] - 转换中文字符为拼音。可以用于汉字注音、排序、检索。  
@@ -74,6 +79,8 @@
 * [shadowsocks-windows][58] - If you want to keep a secret, you must also hide it from yourself.  
 
 
+## Resource
+* [design-resources-for-developers][66] - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 
 
 
@@ -128,5 +135,8 @@
 [61]: https://github.com/sherxon/AlgoDS
 [62]: https://github.com/joelittlejohn/jsonschema2pojo
 [63]: https://github.com/ruanyf/react-demos
-[64]: https://github.com/labuladong/fucking-algorithm
 [65]: https://github.com/shengqiangzhang/examples-of-web-crawlers
+[66]: https://github.com/bradtraversy/design-resources-for-developers
+[67]: https://github.com/0voice/interview_internal_reference
+[68]: https://github.com/Snailclimb/JavaGuide
+[69]: https://github.com/labuladong/fucking-algorithm
